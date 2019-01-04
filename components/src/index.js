@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import Faker from 'faker';
 import CommentDetail from './CommentDetail';
 
-const App = ()=> {
+const App = () => {
   return (
     <div className="ui container comments">
-      <CommentDetail />
+      <CommentDetail author="Sam"/>
+      <CommentDetail author="Alex"/>
+      <CommentDetail author="Charlie"/>
     </div>
   );
 };
