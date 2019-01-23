@@ -12,4 +12,7 @@ An introduction to using components within a React application. Shows comment ca
 An introduction to state and asynchronous updating. Fetches user's current location and date to determine season - displays different page based on season.
 
 ## pics
-Application that connects to external api to present images based on user's search in multiple columns.
+Application that connects to external api to present images in multiple columns based on user's search.
+
+## videos
+Application that displays videos from youtube based on user's search.
