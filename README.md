@@ -1,18 +1,21 @@
-# Create-React-App
+# Create-React-App #
 
 A collection of applications created to learn React.
 
-## jsx
+## jsx ##
 A simple application for learning how to render JSX. Shows a form with basic styling on screen.
 
-## components
+## components ##
 An introduction to using components within a React application. Shows comment cards using parent/child components. Uses styling from semantic and images from faker.
 
-## seasons
+## seasons ##
 An introduction to state and asynchronous updating. Fetches user's current location and date to determine season - displays different page based on season.
 
-## pics
+## pics ##
 Application that connects to external api to present images in multiple columns based on user's search.
 
-## videos
+## videos ##
 Application that displays videos from youtube based on user's search.
+
+## songs ##
+An introduction to Redux for managing state. Renders a hard-coded list of songs to screen, and shows details of selected song, which can be changed with a button click.
