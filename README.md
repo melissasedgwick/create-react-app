@@ -19,3 +19,6 @@ Application that displays videos from youtube based on user's search.
 
 ## songs ##
 An introduction to Redux for managing state. Renders a hard-coded list of songs to screen, and shows details of selected song, which can be changed with a button click.
+
+## blog ##
+A React and Redux application which renders a list of blog posts to page using two api requests. 
