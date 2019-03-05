@@ -25,3 +25,6 @@ A React and Redux application which renders a list of blog posts to page using t
 
 ## streams ##
 A React and Redux CRUD application using react-router-dom for browser navigation. Allows user to perform CRUD functions on a streaming website (streaming functionality not implemented).
+
+## translate ##
+A simple application introducing context instead of the Redux system. Allows user to select between two different flag icons to change the language of an input label and button text on screen.
